@@ -5,8 +5,8 @@
   "main": "aboutus.html",
   "scripts": {
     "start": "aboutus.html",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lite": "lite-server"
+    "test": "echo \"Error: no test specified\" && exit 1"
+
   },
   "repository": {
     "type": "git",
@@ -17,8 +17,6 @@
   "bugs": {
     "url": "https://github.com/DaoNguyenPhuongAnh/Lab1/issues"
   },
-  "homepage": "https://github.com/DaoNguyenPhuongAnh/Lab1#readme",
-  "devDependencies": {
-    "lite-server": "^2.6.1"
-  }
+  "homepage": "https://github.com/DaoNguyenPhuongAnh/Lab1#readme"
+  
 }
